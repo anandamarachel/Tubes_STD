@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1733767419 source:c:\users\user\onedrive\smt 3\testubes\mll.cpp
+	<iostream>
+	"MLL.h"
+
+1733768733 source:c:\users\user\onedrive\smt 3\testubes\main.cpp
+	<iostream>
+	"MLL.h"
+
+1733767444 c:\users\user\onedrive\smt 3\testubes\mll.h
+	<iostream>
+
+1734600868 source:d:\telkom_univ\perkuliahan\sturkdat\tubesfix\tubes16\main.cpp
+	<iostream>
+	"MLL.h"
+
+1734593865 d:\telkom_univ\perkuliahan\sturkdat\tubesfix\tubes16\mll.h
+	<iostream>
+
+1734600870 source:d:\telkom_univ\perkuliahan\sturkdat\tubesfix\tubes16\mll.cpp
+	<iostream>
+	"MLL.h"
+
